@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Michelle 
-- 👀 I’m interested in learning to improve myself everyday 
-      small steps takes you to big places ...
-- 🌱 I’m currently learning in FLATIRON SCHOOL ...
-- 📫 How to reach me by email: caraballomp@yahoo.com 
+- Full Stack Developer with experience using frontend and backend technologies such as Ruby, Rails, Node, JavaScript, and React. 
+Experince 10 plus years as a CRM, with strong collaboration and problem-solving skills, by using innovative ideas, and creativity for accomplishing achieving goals over and beyond. Passionate about learning new things and staying current with the technology.
+- 📫 How to reach me by email: caraballomp@gmail.com 
 
 
